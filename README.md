@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Serhat</h1>
-<h3 align="center">Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Yusuf</h1>
+<h3 align="center">AI and Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning**
 
