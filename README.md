@@ -20,5 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yusuf-Cizlasmak&show_icons=true&theme=dark&locale=en" alt="Yusuf-Cizlasmak" /></p>
 
 <p>
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent"/>
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Yusuf-Cizlasmak"/>
 </p>
