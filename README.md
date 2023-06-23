@@ -1,3 +1,6 @@
+![header image](/original.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">AI, Big Data and Machine Learning Enthusiast</h3>
 
