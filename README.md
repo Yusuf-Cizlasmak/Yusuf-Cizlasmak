@@ -30,3 +30,8 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yusuf-Cizlasmak&theme=merko" alt="Yusuf-Cizlasmak" />
 </div>
 <br clear="both" />
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yusufcizlasmak1/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yusufcizlasmak1/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yusufcizlasmak1/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yusufcizlasmak1/discussion)
