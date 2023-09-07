@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">AI, Big Data and Machine Learning Enthusiast</h3>
+<h3 align="center">AI and Machine Learning Enthusiast</h3>
 
 - 🔭 I’m currently working on **Machine Learning, Data Science**
 
