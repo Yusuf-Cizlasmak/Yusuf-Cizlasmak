@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Machine Learning, Data Science**
 
-- 🌱 I’m currently learning **Machine Learning , Big Data, Reinforcement Learning**
+- 🌱 I’m currently learning **MLOps, Reinforcement Learning**
 
 - 📫 How to reach me **ycizlasmak@gmail.com**
 
