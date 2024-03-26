@@ -1,4 +1,5 @@
-![header image](/original.jpg)
+![original](https://github.com/Yusuf-Cizlasmak/Yusuf-Cizlasmak/assets/97342455/43110b47-8cd9-41bf-83c1-3302da6cce0b)
+
 
 
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
