@@ -32,7 +32,3 @@
 </div>
 <br clear="both" />
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yusufcizlasmak1/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yusufcizlasmak1/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yusufcizlasmak1/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yusufcizlasmak1/discussion)
