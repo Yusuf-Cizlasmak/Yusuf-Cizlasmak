@@ -94,5 +94,6 @@ Machine Learning and Artificial Intelligence enthusiast with a passion for build
 ---
 
 <div align="center">
-  <i>"Building intelligent systems that solve real-world problems"</i>
+  <i>"Vision without execution is a hallucination
+    - Thomas Edison"</i>
 </div>
