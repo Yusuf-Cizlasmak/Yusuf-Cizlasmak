@@ -1,82 +1,59 @@
+# Yusuf Cızlaşmak
+
+**AI and Machine Learning Enthusiast**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Yusuf-Cizlasmak&style=flat-square&color=blue)](https://github.com/Yusuf-Cizlasmak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-cizlasmak/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/yusufcizlasmak1)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ycizlasmak)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ycizlasmak@gmail.com)
+
 ![original](https://github.com/Yusuf-Cizlasmak/Yusuf-Cizlasmak/assets/97342455/43110b47-8cd9-41bf-83c1-3302da6cce0b)
 
+---
+
+## About Me
+
+Machine Learning and Artificial Intelligence enthusiast with a passion for building smart systems and working with data. I enjoy exploring new AI technologies and creating solutions that make a difference.
+
+**Current Focus:**
+- Machine Learning & Deep Learning Research
+- Advanced Data Science Applications  
+- Reinforcement Learning Systems
+- AI Model Development & Optimization
+
+---
+
+## Technical Stack
+
+### Programming & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### MLOps & Development Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+### AI/ML Specialized Tools
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFC107?style=flat-square&logo=huggingface&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
+![NVIDIA DeepStream](https://img.shields.io/badge/NVIDIA%20DeepStream-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 
-<h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">AI and Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on **Machine Learning, Data Science**
+---
 
-- 🌱 I’m currently learning  **Reinforcement Learning**
-
-- 📫 How to reach me **ycizlasmak@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yusuf-cizlasmak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-cızlaşmak" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/yusufcizlasmak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yusuf-cızlaşmak" height="30" width="40" /></a>
-<a href="https://medium.com/@ycizlasmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yusuf-cızlaşmak" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <!-- Scikit-learn -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <!-- Seaborn -->
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <!-- PyTorch -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <!-- Matplotlib -->
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-  <!-- Jupyter -->
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
-  </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <!-- Kubernetes -->
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <!-- YOLO -->
-  <a href="https://github.com/ultralytics/yolov5" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" alt="yolo" width="40" height="40"/>
-  </a>
-  <!-- Hugging Face -->
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging_face" width="40" height="40"/>
-  </a>
-</p>
+## GitHub Statistics
 
 <div>
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yusuf-Cizlasmak&theme=merko" alt="Yusuf-Cizlasmak's GitHub stats" />
@@ -89,3 +66,33 @@
 </div>
 <br clear="both" />
 
+---
+
+## Areas of Expertise
+
+**Machine Learning & AI**
+- Supervised & Unsupervised Learning
+- Deep Learning (Neural Networks, CNNs,  Transformers)
+- Computer Vision (Object Detection, Image Classification)
+- Reinforcement Learning
+
+**Data Science & Engineering**
+- Statistical Analysis & Modeling
+- Data Preprocessing & Feature Engineering
+- Model Evaluation & Optimization
+- MLOps & Model Deployment
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-cizlasmak/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yusufcizlasmak1)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ycizlasmak)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ycizlasmak@gmail.com)
+
+---
+
+<div align="center">
+  <i>"Building intelligent systems that solve real-world problems"</i>
+</div>
