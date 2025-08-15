@@ -19,7 +19,7 @@ Machine Learning and Artificial Intelligence enthusiast with a passion for build
 **Current Focus:**
 - Machine Learning & Deep Learning Research
 - Advanced Data Science Applications  
-- Reinforcement Learning Systems
+- RAG and LLM Systems
 - AI Model Development & Optimization
 
 ---
@@ -74,13 +74,12 @@ Machine Learning and Artificial Intelligence enthusiast with a passion for build
 - Supervised & Unsupervised Learning
 - Deep Learning (Neural Networks, CNNs,  Transformers)
 - Computer Vision (Object Detection, Image Classification)
-- Reinforcement Learning
 
 **Data Science & Engineering**
 - Statistical Analysis & Modeling
 - Data Preprocessing & Feature Engineering
 - Model Evaluation & Optimization
-- MLOps & Model Deployment
+- MLOps & LLMOps
 
 ---
 
@@ -97,3 +96,4 @@ Machine Learning and Artificial Intelligence enthusiast with a passion for build
   <i>"Vision without execution is a hallucination"
     - Thomas Edison</i>
 </div>
+
