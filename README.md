@@ -2,7 +2,7 @@
 
 # Yusuf Cızlaşmak
 
-**Machine Learning Engineer | Computer Vision | MLOps**
+**AI Engineer | Computer Vision | MLOps**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-cizlasmak/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yusufcizlasmak1)
@@ -72,3 +72,4 @@ ML ve yapay zeka alanında çalışan, **Computer Vision** ve **MLOps** üzerine
 <div align="center">
   <i>"Vision without execution is a hallucination" — Thomas Edison</i>
 </div>
+
